@@ -1,0 +1,27 @@
+[09/05/2026 22:42:24] Server pokrenut.
+[09/05/2026 22:42:56] Primljen zahtev: fajl.txt sako
+[09/05/2026 22:42:56] Obrada zahteva: fajl.txt sako
+[09/05/2026 22:42:56] GRESKA: Could not find a part of the path 'C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\Data'.
+[09/05/2026 22:43:14] Primljen zahtev: fajl.txt sako
+[09/05/2026 22:43:14] Obrada zahteva: fajl.txt sako
+[09/05/2026 22:43:14] GRESKA: Could not find a part of the path 'C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\Data'.
+[09/05/2026 22:43:15] Primljen zahtev: fajl.txt sako
+[09/05/2026 22:43:15] Obrada zahteva: fajl.txt sako
+[09/05/2026 22:43:15] GRESKA: Could not find a part of the path 'C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\Data'.
+[09/05/2026 22:43:15] Primljen zahtev: fajl.txt sako
+[09/05/2026 22:43:15] Obrada zahteva: fajl.txt sako
+[09/05/2026 22:43:15] GRESKA: Could not find a part of the path 'C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\Data'.
+[09/05/2026 22:43:15] Primljen zahtev: fajl.txt sako
+[09/05/2026 22:43:15] Obrada zahteva: fajl.txt sako
+[09/05/2026 22:43:15] GRESKA: Could not find a part of the path 'C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\Data'.
+[09/05/2026 22:43:15] Primljen zahtev: fajl.txt sako
+[09/05/2026 22:43:15] Obrada zahteva: fajl.txt sako
+[09/05/2026 22:43:15] GRESKA: Could not find a part of the path 'C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\Data'.
+[09/05/2026 22:43:26] Primljen zahtev: fajl.txt sako
+[09/05/2026 22:43:26] Obrada zahteva: fajl.txt sako
+[09/05/2026 22:43:26] GRESKA: Could not find a part of the path 'C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\Data'.
+[09/05/2026 22:44:40] Server pokrenut.
+[09/05/2026 22:44:43] Primljen zahtev: fajl.txt sako
+[09/05/2026 22:44:43] Obrada zahteva: fajl.txt sako
+[09/05/2026 22:44:43] GRESKA: Could not find a part of the path 'C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\Data'.
+[09/05/2026 23:50:58] Server pokrenut.

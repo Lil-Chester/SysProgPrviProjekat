@@ -1,0 +1,14 @@
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\AnagramServer.exe
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\AnagramServer.deps.json
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\AnagramServer.runtimeconfig.json
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\AnagramServer.dll
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\bin\Debug\net8.0\AnagramServer.pdb
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\obj\Debug\net8.0\AnagramServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\obj\Debug\net8.0\AnagramServer.AssemblyInfoInputs.cache
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\obj\Debug\net8.0\AnagramServer.AssemblyInfo.cs
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\obj\Debug\net8.0\AnagramServer.csproj.CoreCompileInputs.cache
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\obj\Debug\net8.0\AnagramServer.dll
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\obj\Debug\net8.0\refint\AnagramServer.dll
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\obj\Debug\net8.0\AnagramServer.pdb
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\obj\Debug\net8.0\AnagramServer.genruntimeconfig.cache
+C:\Users\mitav\Desktop\SysProg\Prvi projekat\AnagramServer\AnagramServer\obj\Debug\net8.0\ref\AnagramServer.dll
